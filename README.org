@@ -1,0 +1,15 @@
+* HackRank
+
+** Algorithons
+
+** Data Structures
+
+| # | Title    | 	Solution    | 	Difficulty |
+|   | Array DS | [[./data-structures/c/arrays/array-ds.c][C]]/[[./data-structures/go/arrays/array-ds.go][Golang/]][[./data-structures/python/arrays/array-ds.py][Python]] | Easy           |
+
+** Mathematics
+
+* Prepare
+
+You must set enviroment OUTPUT_PATH, you cat set it to any name.
+but you must set it, because it can revice the result.
