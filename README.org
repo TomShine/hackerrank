@@ -5,6 +5,7 @@
 ** Data Structures
 
 | # | Title    | 	Solution    | 	Difficulty |
+|---+----------+-----------------+----------------|
 |   | Array DS | [[./data-structures/c/arrays/array-ds.c][C]]/[[./data-structures/go/arrays/array-ds.go][Golang/]][[./data-structures/python/arrays/array-ds.py][Python]] | Easy           |
 
 ** Mathematics
